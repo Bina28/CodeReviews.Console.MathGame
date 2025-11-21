@@ -1,6 +1,6 @@
-﻿namespace MathGame.Game;
+﻿namespace MathGame.Models;
 
-public class Game
+public class GameModel
 {
     public DateTime DateTime { get; set; }
     public int Score { get; set; }

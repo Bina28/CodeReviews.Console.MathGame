@@ -1,4 +1,4 @@
-﻿namespace MathGame.Game;
+﻿namespace MathGame.Models;
 
 public enum MenuOptions
 {
